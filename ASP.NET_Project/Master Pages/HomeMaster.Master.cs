@@ -7,7 +7,7 @@ using System.Web.UI.WebControls;
 
 namespace ASP.NET_Project.Master_Pages
 {
-    public partial class HeaderMaster : System.Web.UI.MasterPage
+    public partial class HomeMaster : System.Web.UI.MasterPage
     {
         protected void Page_Load(object sender, EventArgs e)
         {
